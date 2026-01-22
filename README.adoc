@@ -1,4 +1,4 @@
-// SPDX-License-Identifier: AGPL-3.0-or-later
+// SPDX-License-Identifier: PMPL-1.0-or-later
 = Claude for Mozilla
 :toc:
 :icons: font
@@ -104,7 +104,7 @@ Access settings via the gear icon in the sidebar:
 
 == License
 
-AGPL-3.0-or-later
+PMPL-1.0-or-later
 
 This is an independent project and is not affiliated with Anthropic.
 Claude is a trademark of Anthropic, PBC.
